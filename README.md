@@ -165,13 +165,21 @@ This repository is intended to demonstrate practical thinking in the following a
 * Technical Leadership
 * Organizational Planning
 
+
 ## About Me
 
-I am currently working as a Senior Software Developer with experience in enterprise software development, business applications, databases, APIs, integrations, and software delivery.
+I currently work as a Senior Software Developer while also leading and coordinating IT projects within my organization.
 
-Over time, my interests have expanded beyond implementation into project leadership, stakeholder management, risk management, and organizational change.
+Over the past year, my responsibilities have expanded beyond software development into project planning, stakeholder communication, delivery coordination, risk management, and cross-functional collaboration.
 
-This repository reflects how I think about AI adoption from both a technical and project management perspective: balancing business value, technical feasibility, timelines, budgets, risks, and stakeholder expectations.
+This transition has given me the opportunity to combine a strong technical background with growing project management experience. Working closely with technical teams, business stakeholders, and decision-makers has strengthened my interest in Technical Project Management and technology-driven organizational change.
+
+Alongside my day-to-day responsibilities, I continuously invest time in developing my project management skills through practical experience, self-study, and hands-on work with real projects.
+
+This repository reflects how I approach technology initiatives today: balancing technical feasibility, business value, stakeholder expectations, project risks, timelines, budgets, and successful delivery.
+
+My long-term goal is to continue growing as a Technical Project Manager who can bridge the gap between business objectives, technology teams, and organizational outcomes.
+
 
 ## Disclaimer
 
