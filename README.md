@@ -168,7 +168,7 @@ This repository is intended to demonstrate practical thinking in the following a
 
 ## About Me
 
-I currently work as a Senior Software Developer while also leading and coordinating IT projects within my organization.
+I currently work as a Software Engineer while also leading and coordinating IT projects within my organization.
 
 Over the past year, my responsibilities have expanded beyond software development into project planning, stakeholder communication, delivery coordination, risk management, and cross-functional collaboration.
 
